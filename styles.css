@@ -51,10 +51,11 @@
   width: 900px;
   display: flex;
   justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .photo-grid-item {
   border: 1px solid #fff;
   width: 300px;
-  height: 300px;
+  height: 300px;  
 }
